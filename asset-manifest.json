@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/1703Lab_MiniProjectReact/static/css/main.6d8a4d54.css",
+    "main.js": "/1703Lab_MiniProjectReact/static/js/main.45656814.js",
+    "static/js/787.440c4889.chunk.js": "/1703Lab_MiniProjectReact/static/js/787.440c4889.chunk.js",
+    "static/media/ramiflix.png": "/1703Lab_MiniProjectReact/static/media/ramiflix.97235725a09fc532e290.png",
+    "index.html": "/1703Lab_MiniProjectReact/index.html",
+    "main.6d8a4d54.css.map": "/1703Lab_MiniProjectReact/static/css/main.6d8a4d54.css.map",
+    "main.45656814.js.map": "/1703Lab_MiniProjectReact/static/js/main.45656814.js.map",
+    "787.440c4889.chunk.js.map": "/1703Lab_MiniProjectReact/static/js/787.440c4889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d8a4d54.css",
+    "static/js/main.45656814.js"
+  ]
+}
