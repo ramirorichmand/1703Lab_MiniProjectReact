@@ -4,13 +4,13 @@ In this exercise my task was to build a React application which will let me load
 
 The Movie Database API is a powerful RESTful web API that provides developers access to an extensive collection of movie and TV show data. With over 4 million titles and detailed information including cast, crew, reviews, and ratings, it's an ideal tool for building applications related to entertainment. The API is easy to use and provides various endpoints that allow developers to retrieve specific movie or TV show details, search for titles, discover popular titles, and much more. It's a great resource for any developer looking to build a movie or TV-related application especially for <b> Ramiflix. </b>
 
-## Tech Stack Used 🤖 : 
+## Tech Stack Used 🤖 
 - CSS
 - HTML
 - JavaScript  
 - React
 
-## Setup Instructions 🔢 : 
+## Setup Instructions 🔢 
 
 To get started with the project, follow these setup instructions:
 
