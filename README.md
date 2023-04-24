@@ -49,8 +49,6 @@ The second diagram provides a depiction of the user's perspective as they utiliz
 
 Finally, the third diagram depicts the user's view upon refreshing the React application. Upon each refresh, the banner dynamically updates to display different shows fetched from the API, providing users with an ever-changing experience. Additionally, the banner also auto-rotates every few seconds, further enhancing the user experience.
 
-</br>
-
 <img width="975" alt="Lab Mini Project Image 3 Refresh" src="https://user-images.githubusercontent.com/122550071/234049556-11520a44-37da-4526-aaa8-a6e76f703a0c.png">
 
 
